@@ -5,6 +5,8 @@ This project was the result of a collaboration with my university college:
 - [Iulian Bogdan](https://github.com/IulianBogdan21)
 - [Stefan Bodea](https://github.com/BodeaPeGitHub)
 
+CONTENT:
+
  - [Purpose](#purpose)
  - [App functionalities](#app-functionalities)
  - [Other studies and articles](#other-studies-and-articles)
